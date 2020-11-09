@@ -1,5 +1,5 @@
 {
-  "name": "cakemanager/cakephp-utils",
+  "name": "jeffersonsimaogoncalves/cakephp-utils",
   "description": "Plugin for CakePHP 3.x with useful components and behaviors",
   "type": "cakephp-plugin",
   "license": "MIT",
