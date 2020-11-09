@@ -19,7 +19,7 @@ You can install this plugin into your CakePHP application using [composer](http:
 The recommended way to install composer packages is:
 
 ```
-composer require cakemanager/cakephp-utils:dev-master
+composer require jeffersonsimaogoncalves/cakephp-utils:dev-master
 ```
 
 ## Configuration
