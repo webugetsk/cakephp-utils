@@ -1,6 +1,8 @@
 <?php
 use Cake\Routing\Router;
 
-Router::plugin('Utils', function ($routes) {
+/** @var \Cake\Routing\RouteBuilder $routes */
+
+$routes->plugin('Utils', function ($routes) {
     $routes->fallbacks();
 });
