@@ -1,5 +1,5 @@
 <?php
-use Cake\Routing\Router;
+use Cake\Routing\RouteBuilder;
 
 /** @var \Cake\Routing\RouteBuilder $routes */
 
