@@ -6,7 +6,7 @@
 [![Total Downloads](https://poser.pugx.org/cakemanager/cakephp-utils/downloads.svg)](https://packagist.org/packages/cakemanager/cakephp-utils) 
 [![License](https://poser.pugx.org/cakemanager/cakephp-utils/license.svg)](https://packagist.org/packages/cakemanager/cakephp-utils)
 
-Utils Plugin for Cake 3.x
+Utils Plugin for Cake 4.x
 =========================
 
 The Utils plugin offers you many components and behaviors to make developing easier. This plugin is required by the [Cak
@@ -19,7 +19,7 @@ You can install this plugin into your CakePHP application using [composer](http:
 The recommended way to install composer packages is:
 
 ```
-composer require jeffersonsimaogoncalves/cakephp-utils:dev-master
+composer require webugetsk/cakephp-utils:dev-master
 ```
 
 ## Configuration

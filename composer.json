@@ -1,6 +1,6 @@
 {
-  "name": "jeffersonsimaogoncalves/cakephp-utils",
-  "description": "Plugin for CakePHP 3.x with useful components and behaviors",
+  "name": "webugetsk/cakephp-utils",
+  "description": "Plugin for CakePHP 4.x with useful components and behaviors",
   "type": "cakephp-plugin",
   "license": "MIT",
   "authors": [
@@ -10,8 +10,8 @@
     }
   ],
   "require": {
-    "php": ">=7.0",
-    "cakephp/cakephp": "^3.0"
+    "php": ">=7.4",
+    "cakephp/cakephp": "^4.4"
   },
   "require-dev": {
     "phpunit/phpunit": "^6.0"
