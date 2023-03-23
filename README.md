@@ -1,10 +1,9 @@
 
-[![Build Status](https://travis-ci.org/cakemanager/cakephp-utils.svg?branch=master)](https://travis-ci.org/cakemanager/cakephp-utils)
-[![Coverage Status](https://coveralls.io/repos/cakemanager/cakephp-utils/badge.svg?branch=master)](https://coveralls.io/r/cakemanager/cakephp-utils?branch=master)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Latest Stable Version](https://poser.pugx.org/cakemanager/cakephp-utils/v/stable.svg)](https://packagist.org/packages/cakemanager/cakephp-utils) 
-[![Total Downloads](https://poser.pugx.org/cakemanager/cakephp-utils/downloads.svg)](https://packagist.org/packages/cakemanager/cakephp-utils) 
-[![License](https://poser.pugx.org/cakemanager/cakephp-utils/license.svg)](https://packagist.org/packages/cakemanager/cakephp-utils)
+[![Latest Stable Version](http://poser.pugx.org/webugetsk/cakephp-utils/v)](https://packagist.org/packages/webugetsk/cakephp-utils) 
+[![Total Downloads](http://poser.pugx.org/webugetsk/cakephp-utils/downloads)](https://packagist.org/packages/webugetsk/cakephp-utils) 
+[![Latest Unstable Version](http://poser.pugx.org/webugetsk/cakephp-utils/v/unstable)](https://packagist.org/packages/webugetsk/cakephp-utils) 
+[![License](http://poser.pugx.org/webugetsk/cakephp-utils/license)](https://packagist.org/packages/webugetsk/cakephp-utils) 
+[![PHP Version Require](http://poser.pugx.org/webugetsk/cakephp-utils/require/php)](https://packagist.org/packages/webugetsk/cakephp-utils)
 
 Utils Plugin for Cake 4.x
 =========================
