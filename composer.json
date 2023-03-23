@@ -7,6 +7,10 @@
     {
       "name": "Bob Mulder",
       "email": "bobmulder@outlook.com"
+    },
+    {
+      "name": "Alim Imanbakiev",
+      "email": "info@webuget.sk"
     }
   ],
   "require": {
