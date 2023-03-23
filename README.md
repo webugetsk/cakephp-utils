@@ -8,7 +8,7 @@
 Utils Plugin for Cake 4.x
 =========================
 
-The Utils plugin offers you many components and behaviors to make developing easier. This plugin is required by the [Cak
+The Utils plugin offers you many components and behaviors to make developing easier. 
 
 Installation
 ------------
@@ -18,7 +18,7 @@ You can install this plugin into your CakePHP application using [composer](http:
 The recommended way to install composer packages is:
 
 ```
-composer require webugetsk/cakephp-utils:dev-master
+composer require webugetsk/cakephp-utils
 ```
 
 ## Configuration
