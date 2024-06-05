@@ -43,7 +43,12 @@ class GlobalAuthComponent extends Component
     {
         $controller = $this->_registry->getController();
 
-        $this->authUser = $controller->Auth->user();
+        if(property_exists($controller, 'Auth')) {
+            $this->authUser = $controller->Auth->user();
+        }
+        else {
+            $this->authUser = $controller->getRequest()->getAttribute('identity');
+        }
         Configure::write('GlobalAuth', $this->authUser);
     }
 
