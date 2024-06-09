@@ -1,6 +1,6 @@
 {
   "name": "webugetsk/cakephp-utils",
-  "description": "Plugin for CakePHP 4.x with useful components and behaviors",
+  "description": "Plugin for CakePHP 4.x/5.x with useful components and behaviors",
   "type": "cakephp-plugin",
   "license": "MIT",
   "authors": [
