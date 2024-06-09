@@ -36,7 +36,7 @@ class AuthorizerComponent extends Component
      *
      * @var array
      */
-    protected $_defaultConfig = [
+    protected array $_defaultConfig = [
         'roleField' => 'role_id',
     ];
     /**

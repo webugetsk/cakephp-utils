@@ -32,7 +32,7 @@ class IsOwnedByBehavior extends Behavior
      *
      * @var array
      */
-    protected $_defaultConfig = [
+    protected array $_defaultConfig = [
         'column' => 'user_id'
     ];
 

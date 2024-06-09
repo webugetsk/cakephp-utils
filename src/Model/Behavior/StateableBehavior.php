@@ -32,7 +32,7 @@ class StateableBehavior extends Behavior
      * - states         array       list of states (key) and its integer (value)
      *
      */
-    protected $_defaultConfig = [
+    protected array $_defaultConfig = [
         'field' => 'state',
         'states' => [
             'concept' => 0,

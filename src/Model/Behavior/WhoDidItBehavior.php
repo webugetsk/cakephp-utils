@@ -37,7 +37,7 @@ class WhoDidItBehavior extends Behavior
      * - fields             array       list of fields to get on query
      *
      */
-    protected $_defaultConfig = [
+    protected array $_defaultConfig = [
         'created_by' => 'created_by',
         'modified_by' => 'modified_by',
         'createdByPropertyName' => 'createdBy',

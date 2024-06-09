@@ -18,6 +18,7 @@ namespace Utils\Controller\Component;
 use Cake\Controller\Component;
 use Cake\Core\Configure;
 use Cake\Event\Event;
+use Utils\Controller\AppController;
 
 /**
  * GlobalAuth component
@@ -30,7 +31,8 @@ class GlobalAuthComponent extends Component
      *
      * @var array
      */
-    protected $_defaultConfig = [];
+    protected array $_defaultConfig = [];
+    public ?App\Model\Entity\User $authUser = null;
 
     /**
      * initialize
