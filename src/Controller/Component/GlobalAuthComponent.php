@@ -32,7 +32,7 @@ class GlobalAuthComponent extends Component
      * @var array
      */
     protected array $_defaultConfig = [];
-    public ?App\Model\Entity\User $authUser = null;
+    public ?\App\Model\Entity\User $authUser = null;
 
     /**
      * initialize
